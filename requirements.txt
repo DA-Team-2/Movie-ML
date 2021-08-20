@@ -8,15 +8,12 @@ importlib-metadata==4.6.4
 itsdangerous==2.0.1
 Jinja2==3.0.1
 MarkupSafe==2.0.1
-mkl-fft
-mkl-random @ file:///C:/ci/mkl_random_1626186163140/work
-mkl-service==2.4.0
-numexpr @ file:///C:/ci/numexpr_1618856761305/work
-numpy @ file:///C:/ci/numpy_and_numpy_base_1626271861146/work
-pandas @ file:///C:/ci/pandas_1627570311072/work
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
-pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
-six @ file:///tmp/build/80754af9/six_1623709665295/work
+numexpr
+numpy
+pandas
+python-dateutil
+pytz
+six
 typing-extensions==3.10.0.0
 Werkzeug==2.0.1
 wincertstore==0.2
